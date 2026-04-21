@@ -17,12 +17,10 @@
   font-family: CoreSansDS45Medium;
   src: url("assets/font/CoreSansDS45Medium.ttf");
 }
-body, html {
+body {
   width: 100vw;
   height: 100vh;
   height: 100dvh;
-}
-body {
   background: url("assets/image/pawel.jpg") no-repeat center/ cover;
   display: flex;
   flex-flow: column nowrap;
