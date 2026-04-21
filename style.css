@@ -103,8 +103,8 @@ div > #contact > svg {
   width: 24px;
   height: 24px;
 }
-@media (orientation: landscape) {
+/*@media (orientation: landscape) {
   body {
     height: 200dvh;
   }
-}
+}*/
