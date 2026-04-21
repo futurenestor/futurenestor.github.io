@@ -103,7 +103,7 @@ div > #contact > svg {
   width: 24px;
   height: 24px;
 }
-@media (orientation: portrait) {
+@media (orientation: landscape) {
   body {
     height: 200dvh;
   }
